@@ -3,6 +3,7 @@ body{
     color: black;
     text-align: center;
     font-size: 25px;
+    border: 5px solid;
 }
 em strong{
     color: rgb(32, 169, 237);
