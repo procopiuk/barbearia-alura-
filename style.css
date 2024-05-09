@@ -33,3 +33,7 @@ h1{
 .imagembeneficios{
     width: 50%;
 }
+h2{
+    text-align: center;
+    border: 10px double;
+}
