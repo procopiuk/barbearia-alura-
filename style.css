@@ -2,6 +2,7 @@ body{
     background-color: aliceblue;
     color: black;
     text-align: center;
+    font-size: 25px;
 }
 em strong{
     color: rgb(32, 169, 237);
