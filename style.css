@@ -37,3 +37,8 @@ h3{
     text-align: center;
     border: 10px double;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+}
